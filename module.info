@@ -1,0 +1,3 @@
+desc=ZFS Webmin Appliance
+os_support=solaris/10-*
+category=system
